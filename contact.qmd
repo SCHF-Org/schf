@@ -1,10 +1,10 @@
 ---
-title: "David J. Masiello"
-about: 
+title: "Montaque Reynolds"
+about:
   id: contact
   template: solana
   image-shape: round
-  image: people/masiello-david/avatar.png
+  image: ./people/reynolds-monty/avatar.jpg
 # page-layout: full
 ---
 
@@ -12,11 +12,11 @@ about:
 
 :::{#contact}
 
-#### {{< fa envelope >}} &nbsp; masiello@uw.edu
+#### {{< fa envelope >}} &nbsp; mreynolds1@stetson.edu
 
-#### {{< fa phone >}} &nbsp; 206-543-5579
+#### {{< fa phone >}} &nbsp; 206-234-3477
 
-#### {{< fa map-location-dot >}} &nbsp; Department of Chemistry, CHB 304F, Seattle, WA 98195-1700
+#### {{< fa map-location-dot >}} &nbsp; Department of Philosophy, Elizabeth Hall 104, Stetson University, Deland, Fl 32723
 
 
 :::
@@ -28,7 +28,7 @@ about:
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-122.30830, lat=47.65297)
+  addMarkers(lng=-81.30281569438084, lat=29.03504894352741)
 ```
 
 <br>
