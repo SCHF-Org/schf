@@ -26,6 +26,8 @@
       "/news/2025-12-08-unjust-authenticity-2/unjust-auth-2.html",
       "/news/2025-12-08-unjust-authenticity-2/unjust-auth.html",
       "/news/2025-12-06-manticores/manticores.html",
+      "/news/2025-12-13-sijuwade/manticores.html",
+      "/news/2025-12-17-manticore-herme/manticores.html",
       "/news/2025-10-12-serious-games/index.html",
       "/news/2025-10-04-another-introduction/index.html",
       "/news/2025-10-01-heart-of-things-1/index.html",
@@ -38,7 +40,8 @@
   {
     "listing": "/dmref/people/index.html",
     "items": [
-      "/people/rust-josh/index.html"
+      "/people/rust-josh/index.html",
+      "/people/reynolds-monty/index.html"
     ]
   },
   {
