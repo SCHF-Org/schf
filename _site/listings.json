@@ -22,6 +22,7 @@
   {
     "listing": "/news/index.html",
     "items": [
+      "/news/2025-12-18-currie-nat/curr-nat-fic.html",
       "/news/2025-12-07-unjust-authenticity.qmd/unjust-auth.html",
       "/news/2025-12-08-unjust-authenticity-2/unjust-auth-2.html",
       "/news/2025-12-08-unjust-authenticity-2/unjust-auth.html",
@@ -35,13 +36,6 @@
       "/news/2025-10-05-simulations-and-philosophy-2/index.html",
       "/news/2025-10-09-heart-3/index.html",
       "/news/2025-10-11-yet-another-intro/index.html"
-    ]
-  },
-  {
-    "listing": "/dmref/people/index.html",
-    "items": [
-      "/people/rust-josh/index.html",
-      "/people/reynolds-monty/index.html"
     ]
   },
   {
@@ -65,6 +59,13 @@
       "/publications/2018_038_Introduction_Plasmon/index.html",
       "/publications/2014_024_Thermal_Signatures_o/index.html",
       "/publications/2012_017_Super-Resolution_Ima/index.html"
+    ]
+  },
+  {
+    "listing": "/dmref/people/index.html",
+    "items": [
+      "/people/rust-josh/index.html",
+      "/people/reynolds-monty/index.html"
     ]
   },
   {
