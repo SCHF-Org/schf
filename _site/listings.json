@@ -14,28 +14,15 @@
     "items": []
   },
   {
-    "listing": "/people/reynolds-monty/index.html",
+    "listing": "/people/index.html",
     "items": [
-      "/publications/2025_095_value_realism/index.html"
+      "/people/reynolds-monty/index.html"
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/dmref/people/index.html",
     "items": [
-      "/news/2025-12-18-currie-nat/curr-nat-fic.html",
-      "/news/2025-12-07-unjust-authenticity.qmd/unjust-auth.html",
-      "/news/2025-12-08-unjust-authenticity-2/unjust-auth-2.html",
-      "/news/2025-12-08-unjust-authenticity-2/unjust-auth.html",
-      "/news/2025-12-06-manticores/manticores.html",
-      "/news/2025-12-13-sijuwade/manticores.html",
-      "/news/2025-12-17-manticore-herme/manticores.html",
-      "/news/2025-10-12-serious-games/index.html",
-      "/news/2025-10-04-another-introduction/index.html",
-      "/news/2025-10-01-heart-of-things-1/index.html",
-      "/news/2019-01-01-archive-pre.../index.html",
-      "/news/2025-10-05-simulations-and-philosophy-2/index.html",
-      "/news/2025-10-09-heart-3/index.html",
-      "/news/2025-10-11-yet-another-intro/index.html"
+      "/people/reynolds-monty/index.html"
     ]
   },
   {
@@ -62,22 +49,29 @@
     ]
   },
   {
-    "listing": "/dmref/people/index.html",
+    "listing": "/news/index.html",
     "items": [
-      "/people/rust-josh/index.html",
-      "/people/reynolds-monty/index.html"
+      "/news/2025-12-18-currie-nat/curr-nat-fic.html",
+      "/news/2025-12-08-unjust-authenticity-2/unjust-auth.html",
+      "/news/2025-12-08-unjust-authenticity-2/unjust-auth-2.html",
+      "/news/2025-12-07-unjust-authenticity.qmd/unjust-auth.html",
+      "/news/2025-12-06-manticores/manticores.html",
+      "/news/2025-12-13-sijuwade/manticores.html",
+      "/news/2025-12-17-manticore-herme/manticores.html",
+      "/news/2025-10-12-serious-games/index.html",
+      "/news/2025-10-04-another-introduction/index.html",
+      "/news/2025-10-01-heart-of-things-1/index.html",
+      "/news/2019-01-01-archive-pre.../index.html",
+      "/news/2025-10-05-simulations-and-philosophy-2/index.html",
+      "/news/2025-10-09-heart-3/index.html",
+      "/news/2025-10-11-yet-another-intro/index.html"
     ]
   },
   {
-    "listing": "/people/index.html",
+    "listing": "/people/reynolds-monty/index.html",
     "items": [
-      "/people/rust-josh/index.html",
-      "/people/reynolds-monty/index.html"
+      "/publications/2025_095_value_realism/index.html"
     ]
-  },
-  {
-    "listing": "/people/rust-josh/index.html",
-    "items": []
   },
   {
     "listing": "/publications/index.html",

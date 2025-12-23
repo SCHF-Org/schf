@@ -1,127 +1,30 @@
 ---
 title: "The Nature of Fiction, Gregory Currie"
-#subtitle: "The manticore as a beast of burden"
+subtitle: "Concept of Fiction"
 date: '2025-12-18'
 ---
 
-# Concept of Fiction
+Why do we think that fairy tales are fiction but news stories are not? Is fake news the same thing as a fairy tale? During the pandemic, fake news became a widely discussed talking point. A less widely discussed talking point however was why don't we just call it fiction? A derivative of this question is how fiction is made possible. Meaning, what are the creative differences between fake news, news news and fairy tales? To answer this question, Gregory Currie suggests three possible answers.
 
-1. How do we come to have the kind of fiction that we do?
-2. How is fiction made possible?
-   1. What are the characteristics that distinguish fiction from non-fiction?
-   2. What sorts of entities make fiction possible?
-   3. What psychological and linguistic resources must producers and consumers of fiction have access to?
+According to the front page news, the terrorist leader Amelia Boyd was killed by the *Headhunters Gang*.
+
+First are the characteristics that distinguish fiction from non-fiction. This question is a close investigation of the entities that are in fiction and make them possible. For instance, the psychological and linguistic resources that producers and consumers of fiction must have access to.
 
 ## Fiction and Language
 
-1. Fiction uses language.
-2. But there is no universal linguistic feature shared by all fictional works and there is no available proof confirming what is a fiction. [Modern schools of criticism, Terry Eagleton, Literary Theory, 1983; Russian Formalists, L.T. Lemon and MJ Reis, Russian Formalist Criticism: Four Essays, 1965; on Structuralism, see Jonathan Culler, Structuralist Poetics, 1975; New Criticism, see Cleanth Brooks, The Well-Wrought Urn, 1949.]
-3. However, reading a work is an act of reading words and sentences that make it up. [Anatomy of Criticism, 1975, 122]
-4. Therefore what makes something a fiction is neither a necessary nor sufficient condition for being fictional.
-5. and Therefore something is determined to be a fiction by it's verbal structure but what makes it a fiction does not lie in the text itself.
+First, consider that fiction uses language. But there is no universal linguistic feature shared by all fictional works and there is no available proof/s confirming what is a fiction.^[Modern schools of criticism, Terry Eagleton, Literary Theory, 1983; Russian Formalists, L.T. Lemon and MJ Reis, Russian Formalist Criticism: Four Essays, 1965; on Structuralism, see Jonathan Culler, Structuralist Poetics, 1975; New Criticism, see Cleanth Brooks, The Well-Wrought Urn, 1949.] We usually think that reading a work is an act of reading words and sentences that make it up.^[Anatomy of Criticism, 1975, 122] However, consider a mime? Or silent films? These are works that do not use language in the traditional sense, yet we consider them fictional. Therefore, what makes something a fiction cannot necessarily be a linguistic feature. Therefore what makes something a fiction is neither a necessary nor sufficient condition for being fictional.
+Finally then, something can be a fiction because of it's verbal structure, but what makes it a fiction does not lie in the text itself.
 
 ## Semantic Properties
 
-1. Fictionality is a relational property, it is something possessed in virtue of the text's relations to other things.
-2. Therefore it is possible that fictionality is a linguistic matter. (a method of communication, communicative practice)
-3. Fictional, like non-fictional texts have the semantic properties of truth value and reference.
+Currie concludes that fictionality is a relational property, it is something possessed in virtue of the text's relations to other things. Therefore while it is possible that fictionality is a linguistic matter, what makes it a fiction lies in some other property. (a method of communication, communicative practice)
+
+Currie suggests that fictional properties, like non-fictional ones have the semantic properties of truth value and reference. What this means is that a fictional statement can be true and false. For instance, consider the statement "Killing an NPC in monitored space will earn you a crime state". According to Currie, this statement is true. What makes something true or false in a fiction, is its relation to the outside world. What is important however, is what this relationship is.
 
 ## Readers and Authors
 
-## The Pretense Theory
+Because fiction is a relational property, they are community based and "depend on the prevailing attitudes of the community, or of a subgroup of the community rather than the ideas of a single individual" [@curr90, 10].
 
-## Make-Believe
+> For I take it that an act of joint authorship is exactly that: an act engaged in by more than one person rather than several distinct acts undertaken individually and patched together. [@curr90, 11]
 
-## The Author's Intentions
-
-## Communicative Acts
-
-## Fictive Communication
-
-## Objections to the Necessity of the Analysis
-
-## Objections to the Sufficiency of the Analysis
-
-## Make-Believe and Pretense
-
-# Structure of Stories
-
-## Truth in fiction and fictional worlds
-
-## Being fictional
-
-## Lewis's theory
-
-## More on make-believe
-
-## Truth in fiction and belief
-
-## Fictional author and informed reader
-
-## Strategies of interpretation
-
-## Fictional to a degree?
-
-## Fictions in visual media
-
-# Interpretation
-
-## Relationalism and relativism
-
-## The intentional fallacy
-
-## Intentional meaning and conventional meaning
-
-## The return of the author
-
-## The text
-
-## Story and style
-
-## Fictional author and narrator
-
-# The Characters of Fiction
-
-## Fictional names and proper names
-
-## Existent and nonexistent things
-
-## Reference fixing and descriptive names
-
-## Transworld identity and counterpart theory
-
-## Diagonal propositions
-
-## The content of make-believe
-
-## In defense of the fictional author
-
-## The metafictive use of fictional names
-
-## Accidental reference and aboutness
-
-## Fictional names and singular propositions
-
-## Roles
-
-## Conclusions
-
-# Emotion and the Response to Fiction
-
-## Finding the problem
-
-## The options
-
-## A theory of emotion
-
-## A solution
-
-## Objections and revisions
-
-## Alternatives
-
-## One solution or two?
-
-## Emotional congruence
-
-## Psychological kinds
+The process of creating a fiction begins with the intention. It is not a singular intention however, but is a social enterprise. So maybe the reason that we do not call fake news, fiction, is because of the purposes and intent of fake news. It is intended to deceive rather than express true propositions. But if this is true, then why do we not consider that fiction is intended to deceive? Why does fiction have semantic properties such as truth whereas fake news does not?

@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -88,6 +108,7 @@ ga('send', {
 
 
 <meta name="twitter:title" content="The Nature of Fiction, Gregory Currie – The Experience Machine">
+<meta name="twitter:description" content="Concept of Fiction">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -152,69 +173,9 @@ ga('send', {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#concept-of-fiction" id="toc-concept-of-fiction" class="nav-link active" data-scroll-target="#concept-of-fiction">Concept of Fiction</a>
-  <ul class="collapse">
-  <li><a href="#fiction-and-language" id="toc-fiction-and-language" class="nav-link" data-scroll-target="#fiction-and-language">Fiction and Language</a></li>
+  <li><a href="#fiction-and-language" id="toc-fiction-and-language" class="nav-link active" data-scroll-target="#fiction-and-language">Fiction and Language</a></li>
   <li><a href="#semantic-properties" id="toc-semantic-properties" class="nav-link" data-scroll-target="#semantic-properties">Semantic Properties</a></li>
   <li><a href="#readers-and-authors" id="toc-readers-and-authors" class="nav-link" data-scroll-target="#readers-and-authors">Readers and Authors</a></li>
-  <li><a href="#the-pretense-theory" id="toc-the-pretense-theory" class="nav-link" data-scroll-target="#the-pretense-theory">The Pretense Theory</a></li>
-  <li><a href="#make-believe" id="toc-make-believe" class="nav-link" data-scroll-target="#make-believe">Make-Believe</a></li>
-  <li><a href="#the-authors-intentions" id="toc-the-authors-intentions" class="nav-link" data-scroll-target="#the-authors-intentions">The Author’s Intentions</a></li>
-  <li><a href="#communicative-acts" id="toc-communicative-acts" class="nav-link" data-scroll-target="#communicative-acts">Communicative Acts</a></li>
-  <li><a href="#fictive-communication" id="toc-fictive-communication" class="nav-link" data-scroll-target="#fictive-communication">Fictive Communication</a></li>
-  <li><a href="#objections-to-the-necessity-of-the-analysis" id="toc-objections-to-the-necessity-of-the-analysis" class="nav-link" data-scroll-target="#objections-to-the-necessity-of-the-analysis">Objections to the Necessity of the Analysis</a></li>
-  <li><a href="#objections-to-the-sufficiency-of-the-analysis" id="toc-objections-to-the-sufficiency-of-the-analysis" class="nav-link" data-scroll-target="#objections-to-the-sufficiency-of-the-analysis">Objections to the Sufficiency of the Analysis</a></li>
-  <li><a href="#make-believe-and-pretense" id="toc-make-believe-and-pretense" class="nav-link" data-scroll-target="#make-believe-and-pretense">Make-Believe and Pretense</a></li>
-  </ul></li>
-  <li><a href="#structure-of-stories" id="toc-structure-of-stories" class="nav-link" data-scroll-target="#structure-of-stories">Structure of Stories</a>
-  <ul class="collapse">
-  <li><a href="#truth-in-fiction-and-fictional-worlds" id="toc-truth-in-fiction-and-fictional-worlds" class="nav-link" data-scroll-target="#truth-in-fiction-and-fictional-worlds">Truth in fiction and fictional worlds</a></li>
-  <li><a href="#being-fictional" id="toc-being-fictional" class="nav-link" data-scroll-target="#being-fictional">Being fictional</a></li>
-  <li><a href="#lewiss-theory" id="toc-lewiss-theory" class="nav-link" data-scroll-target="#lewiss-theory">Lewis’s theory</a></li>
-  <li><a href="#more-on-make-believe" id="toc-more-on-make-believe" class="nav-link" data-scroll-target="#more-on-make-believe">More on make-believe</a></li>
-  <li><a href="#truth-in-fiction-and-belief" id="toc-truth-in-fiction-and-belief" class="nav-link" data-scroll-target="#truth-in-fiction-and-belief">Truth in fiction and belief</a></li>
-  <li><a href="#fictional-author-and-informed-reader" id="toc-fictional-author-and-informed-reader" class="nav-link" data-scroll-target="#fictional-author-and-informed-reader">Fictional author and informed reader</a></li>
-  <li><a href="#strategies-of-interpretation" id="toc-strategies-of-interpretation" class="nav-link" data-scroll-target="#strategies-of-interpretation">Strategies of interpretation</a></li>
-  <li><a href="#fictional-to-a-degree" id="toc-fictional-to-a-degree" class="nav-link" data-scroll-target="#fictional-to-a-degree">Fictional to a degree?</a></li>
-  <li><a href="#fictions-in-visual-media" id="toc-fictions-in-visual-media" class="nav-link" data-scroll-target="#fictions-in-visual-media">Fictions in visual media</a></li>
-  </ul></li>
-  <li><a href="#interpretation" id="toc-interpretation" class="nav-link" data-scroll-target="#interpretation">Interpretation</a>
-  <ul class="collapse">
-  <li><a href="#relationalism-and-relativism" id="toc-relationalism-and-relativism" class="nav-link" data-scroll-target="#relationalism-and-relativism">Relationalism and relativism</a></li>
-  <li><a href="#the-intentional-fallacy" id="toc-the-intentional-fallacy" class="nav-link" data-scroll-target="#the-intentional-fallacy">The intentional fallacy</a></li>
-  <li><a href="#intentional-meaning-and-conventional-meaning" id="toc-intentional-meaning-and-conventional-meaning" class="nav-link" data-scroll-target="#intentional-meaning-and-conventional-meaning">Intentional meaning and conventional meaning</a></li>
-  <li><a href="#the-return-of-the-author" id="toc-the-return-of-the-author" class="nav-link" data-scroll-target="#the-return-of-the-author">The return of the author</a></li>
-  <li><a href="#the-text" id="toc-the-text" class="nav-link" data-scroll-target="#the-text">The text</a></li>
-  <li><a href="#story-and-style" id="toc-story-and-style" class="nav-link" data-scroll-target="#story-and-style">Story and style</a></li>
-  <li><a href="#fictional-author-and-narrator" id="toc-fictional-author-and-narrator" class="nav-link" data-scroll-target="#fictional-author-and-narrator">Fictional author and narrator</a></li>
-  </ul></li>
-  <li><a href="#the-characters-of-fiction" id="toc-the-characters-of-fiction" class="nav-link" data-scroll-target="#the-characters-of-fiction">The Characters of Fiction</a>
-  <ul class="collapse">
-  <li><a href="#fictional-names-and-proper-names" id="toc-fictional-names-and-proper-names" class="nav-link" data-scroll-target="#fictional-names-and-proper-names">Fictional names and proper names</a></li>
-  <li><a href="#existent-and-nonexistent-things" id="toc-existent-and-nonexistent-things" class="nav-link" data-scroll-target="#existent-and-nonexistent-things">Existent and nonexistent things</a></li>
-  <li><a href="#reference-fixing-and-descriptive-names" id="toc-reference-fixing-and-descriptive-names" class="nav-link" data-scroll-target="#reference-fixing-and-descriptive-names">Reference fixing and descriptive names</a></li>
-  <li><a href="#transworld-identity-and-counterpart-theory" id="toc-transworld-identity-and-counterpart-theory" class="nav-link" data-scroll-target="#transworld-identity-and-counterpart-theory">Transworld identity and counterpart theory</a></li>
-  <li><a href="#diagonal-propositions" id="toc-diagonal-propositions" class="nav-link" data-scroll-target="#diagonal-propositions">Diagonal propositions</a></li>
-  <li><a href="#the-content-of-make-believe" id="toc-the-content-of-make-believe" class="nav-link" data-scroll-target="#the-content-of-make-believe">The content of make-believe</a></li>
-  <li><a href="#in-defense-of-the-fictional-author" id="toc-in-defense-of-the-fictional-author" class="nav-link" data-scroll-target="#in-defense-of-the-fictional-author">In defense of the fictional author</a></li>
-  <li><a href="#the-metafictive-use-of-fictional-names" id="toc-the-metafictive-use-of-fictional-names" class="nav-link" data-scroll-target="#the-metafictive-use-of-fictional-names">The metafictive use of fictional names</a></li>
-  <li><a href="#accidental-reference-and-aboutness" id="toc-accidental-reference-and-aboutness" class="nav-link" data-scroll-target="#accidental-reference-and-aboutness">Accidental reference and aboutness</a></li>
-  <li><a href="#fictional-names-and-singular-propositions" id="toc-fictional-names-and-singular-propositions" class="nav-link" data-scroll-target="#fictional-names-and-singular-propositions">Fictional names and singular propositions</a></li>
-  <li><a href="#roles" id="toc-roles" class="nav-link" data-scroll-target="#roles">Roles</a></li>
-  <li><a href="#conclusions" id="toc-conclusions" class="nav-link" data-scroll-target="#conclusions">Conclusions</a></li>
-  </ul></li>
-  <li><a href="#emotion-and-the-response-to-fiction" id="toc-emotion-and-the-response-to-fiction" class="nav-link" data-scroll-target="#emotion-and-the-response-to-fiction">Emotion and the Response to Fiction</a>
-  <ul class="collapse">
-  <li><a href="#finding-the-problem" id="toc-finding-the-problem" class="nav-link" data-scroll-target="#finding-the-problem">Finding the problem</a></li>
-  <li><a href="#the-options" id="toc-the-options" class="nav-link" data-scroll-target="#the-options">The options</a></li>
-  <li><a href="#a-theory-of-emotion" id="toc-a-theory-of-emotion" class="nav-link" data-scroll-target="#a-theory-of-emotion">A theory of emotion</a></li>
-  <li><a href="#a-solution" id="toc-a-solution" class="nav-link" data-scroll-target="#a-solution">A solution</a></li>
-  <li><a href="#objections-and-revisions" id="toc-objections-and-revisions" class="nav-link" data-scroll-target="#objections-and-revisions">Objections and revisions</a></li>
-  <li><a href="#alternatives" id="toc-alternatives" class="nav-link" data-scroll-target="#alternatives">Alternatives</a></li>
-  <li><a href="#one-solution-or-two" id="toc-one-solution-or-two" class="nav-link" data-scroll-target="#one-solution-or-two">One solution or two?</a></li>
-  <li><a href="#emotional-congruence" id="toc-emotional-congruence" class="nav-link" data-scroll-target="#emotional-congruence">Emotional congruence</a></li>
-  <li><a href="#psychological-kinds" id="toc-psychological-kinds" class="nav-link" data-scroll-target="#psychological-kinds">Psychological kinds</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -224,6 +185,7 @@ ga('send', {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">The Nature of Fiction, Gregory Currie</h1>
+<p class="subtitle lead">Concept of Fiction</p>
 </div>
 
 
@@ -246,190 +208,42 @@ ga('send', {
 </header>
 
 
-<section id="concept-of-fiction" class="level1">
-<h1>Concept of Fiction</h1>
-<ol type="1">
-<li>How do we come to have the kind of fiction that we do?</li>
-<li>How is fiction made possible?
-<ol type="1">
-<li>What are the characteristics that distinguish fiction from non-fiction?</li>
-<li>What sorts of entities make fiction possible?</li>
-<li>What psychological and linguistic resources must producers and consumers of fiction have access to?</li>
-</ol></li>
-</ol>
+<p>Why do we think that fairy tales are fiction but news stories are not? Is fake news the same thing as a fairy tale? During the pandemic, fake news became a widely discussed talking point. A less widely discussed talking point however was why don’t we just call it fiction? A derivative of this question is how fiction is made possible. Meaning, what are the creative differences between fake news, news news and fairy tales? To answer this question, Gregory Currie suggests three possible answers.</p>
+<p>According to the front page news, the terrorist leader Amelia Boyd was killed by the <em>Headhunters Gang</em>.</p>
+<p>First are the characteristics that distinguish fiction from non-fiction. This question is a close investigation of the entities that are in fiction and make them possible. For instance, the psychological and linguistic resources that producers and consumers of fiction must have access to.</p>
 <section id="fiction-and-language" class="level2">
 <h2 class="anchored" data-anchor-id="fiction-and-language">Fiction and Language</h2>
-<ol type="1">
-<li>Fiction uses language.</li>
-<li>But there is no universal linguistic feature shared by all fictional works and there is no available proof confirming what is a fiction. [Modern schools of criticism, Terry Eagleton, Literary Theory, 1983; Russian Formalists, L.T. Lemon and MJ Reis, Russian Formalist Criticism: Four Essays, 1965; on Structuralism, see Jonathan Culler, Structuralist Poetics, 1975; New Criticism, see Cleanth Brooks, The Well-Wrought Urn, 1949.]</li>
-<li>However, reading a work is an act of reading words and sentences that make it up. [Anatomy of Criticism, 1975, 122]</li>
-<li>Therefore what makes something a fiction is neither a necessary nor sufficient condition for being fictional.</li>
-<li>and Therefore something is determined to be a fiction by it’s verbal structure but what makes it a fiction does not lie in the text itself.</li>
-</ol>
+<p>First, consider that fiction uses language. But there is no universal linguistic feature shared by all fictional works and there is no available proof/s confirming what is a fiction.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> We usually think that reading a work is an act of reading words and sentences that make it up.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> However, consider a mime? Or silent films? These are works that do not use language in the traditional sense, yet we consider them fictional. Therefore, what makes something a fiction cannot necessarily be a linguistic feature. Therefore what makes something a fiction is neither a necessary nor sufficient condition for being fictional. Finally then, something can be a fiction because of it’s verbal structure, but what makes it a fiction does not lie in the text itself.</p>
 </section>
 <section id="semantic-properties" class="level2">
 <h2 class="anchored" data-anchor-id="semantic-properties">Semantic Properties</h2>
-<ol type="1">
-<li>Fictionality is a relational property, it is something possessed in virtue of the text’s relations to other things.</li>
-<li>Therefore it is possible that fictionality is a linguistic matter. (a method of communication, communicative practice)</li>
-<li>Fictional, like non-fictional texts have the semantic properties of truth value and reference.</li>
-</ol>
+<p>Currie concludes that fictionality is a relational property, it is something possessed in virtue of the text’s relations to other things. Therefore while it is possible that fictionality is a linguistic matter, what makes it a fiction lies in some other property. (a method of communication, communicative practice)</p>
+<p>Currie suggests that fictional properties, like non-fictional ones have the semantic properties of truth value and reference. What this means is that a fictional statement can be true and false. For instance, consider the statement “Killing an NPC in monitored space will earn you a crime state”. According to Currie, this statement is true. What makes something true or false in a fiction, is its relation to the outside world. What is important however, is what this relationship is.</p>
 </section>
 <section id="readers-and-authors" class="level2">
 <h2 class="anchored" data-anchor-id="readers-and-authors">Readers and Authors</h2>
-</section>
-<section id="the-pretense-theory" class="level2">
-<h2 class="anchored" data-anchor-id="the-pretense-theory">The Pretense Theory</h2>
-</section>
-<section id="make-believe" class="level2">
-<h2 class="anchored" data-anchor-id="make-believe">Make-Believe</h2>
-</section>
-<section id="the-authors-intentions" class="level2">
-<h2 class="anchored" data-anchor-id="the-authors-intentions">The Author’s Intentions</h2>
-</section>
-<section id="communicative-acts" class="level2">
-<h2 class="anchored" data-anchor-id="communicative-acts">Communicative Acts</h2>
-</section>
-<section id="fictive-communication" class="level2">
-<h2 class="anchored" data-anchor-id="fictive-communication">Fictive Communication</h2>
-</section>
-<section id="objections-to-the-necessity-of-the-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="objections-to-the-necessity-of-the-analysis">Objections to the Necessity of the Analysis</h2>
-</section>
-<section id="objections-to-the-sufficiency-of-the-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="objections-to-the-sufficiency-of-the-analysis">Objections to the Sufficiency of the Analysis</h2>
-</section>
-<section id="make-believe-and-pretense" class="level2">
-<h2 class="anchored" data-anchor-id="make-believe-and-pretense">Make-Believe and Pretense</h2>
-</section>
-</section>
-<section id="structure-of-stories" class="level1">
-<h1>Structure of Stories</h1>
-<section id="truth-in-fiction-and-fictional-worlds" class="level2">
-<h2 class="anchored" data-anchor-id="truth-in-fiction-and-fictional-worlds">Truth in fiction and fictional worlds</h2>
-</section>
-<section id="being-fictional" class="level2">
-<h2 class="anchored" data-anchor-id="being-fictional">Being fictional</h2>
-</section>
-<section id="lewiss-theory" class="level2">
-<h2 class="anchored" data-anchor-id="lewiss-theory">Lewis’s theory</h2>
-</section>
-<section id="more-on-make-believe" class="level2">
-<h2 class="anchored" data-anchor-id="more-on-make-believe">More on make-believe</h2>
-</section>
-<section id="truth-in-fiction-and-belief" class="level2">
-<h2 class="anchored" data-anchor-id="truth-in-fiction-and-belief">Truth in fiction and belief</h2>
-</section>
-<section id="fictional-author-and-informed-reader" class="level2">
-<h2 class="anchored" data-anchor-id="fictional-author-and-informed-reader">Fictional author and informed reader</h2>
-</section>
-<section id="strategies-of-interpretation" class="level2">
-<h2 class="anchored" data-anchor-id="strategies-of-interpretation">Strategies of interpretation</h2>
-</section>
-<section id="fictional-to-a-degree" class="level2">
-<h2 class="anchored" data-anchor-id="fictional-to-a-degree">Fictional to a degree?</h2>
-</section>
-<section id="fictions-in-visual-media" class="level2">
-<h2 class="anchored" data-anchor-id="fictions-in-visual-media">Fictions in visual media</h2>
-</section>
-</section>
-<section id="interpretation" class="level1">
-<h1>Interpretation</h1>
-<section id="relationalism-and-relativism" class="level2">
-<h2 class="anchored" data-anchor-id="relationalism-and-relativism">Relationalism and relativism</h2>
-</section>
-<section id="the-intentional-fallacy" class="level2">
-<h2 class="anchored" data-anchor-id="the-intentional-fallacy">The intentional fallacy</h2>
-</section>
-<section id="intentional-meaning-and-conventional-meaning" class="level2">
-<h2 class="anchored" data-anchor-id="intentional-meaning-and-conventional-meaning">Intentional meaning and conventional meaning</h2>
-</section>
-<section id="the-return-of-the-author" class="level2">
-<h2 class="anchored" data-anchor-id="the-return-of-the-author">The return of the author</h2>
-</section>
-<section id="the-text" class="level2">
-<h2 class="anchored" data-anchor-id="the-text">The text</h2>
-</section>
-<section id="story-and-style" class="level2">
-<h2 class="anchored" data-anchor-id="story-and-style">Story and style</h2>
-</section>
-<section id="fictional-author-and-narrator" class="level2">
-<h2 class="anchored" data-anchor-id="fictional-author-and-narrator">Fictional author and narrator</h2>
-</section>
-</section>
-<section id="the-characters-of-fiction" class="level1">
-<h1>The Characters of Fiction</h1>
-<section id="fictional-names-and-proper-names" class="level2">
-<h2 class="anchored" data-anchor-id="fictional-names-and-proper-names">Fictional names and proper names</h2>
-</section>
-<section id="existent-and-nonexistent-things" class="level2">
-<h2 class="anchored" data-anchor-id="existent-and-nonexistent-things">Existent and nonexistent things</h2>
-</section>
-<section id="reference-fixing-and-descriptive-names" class="level2">
-<h2 class="anchored" data-anchor-id="reference-fixing-and-descriptive-names">Reference fixing and descriptive names</h2>
-</section>
-<section id="transworld-identity-and-counterpart-theory" class="level2">
-<h2 class="anchored" data-anchor-id="transworld-identity-and-counterpart-theory">Transworld identity and counterpart theory</h2>
-</section>
-<section id="diagonal-propositions" class="level2">
-<h2 class="anchored" data-anchor-id="diagonal-propositions">Diagonal propositions</h2>
-</section>
-<section id="the-content-of-make-believe" class="level2">
-<h2 class="anchored" data-anchor-id="the-content-of-make-believe">The content of make-believe</h2>
-</section>
-<section id="in-defense-of-the-fictional-author" class="level2">
-<h2 class="anchored" data-anchor-id="in-defense-of-the-fictional-author">In defense of the fictional author</h2>
-</section>
-<section id="the-metafictive-use-of-fictional-names" class="level2">
-<h2 class="anchored" data-anchor-id="the-metafictive-use-of-fictional-names">The metafictive use of fictional names</h2>
-</section>
-<section id="accidental-reference-and-aboutness" class="level2">
-<h2 class="anchored" data-anchor-id="accidental-reference-and-aboutness">Accidental reference and aboutness</h2>
-</section>
-<section id="fictional-names-and-singular-propositions" class="level2">
-<h2 class="anchored" data-anchor-id="fictional-names-and-singular-propositions">Fictional names and singular propositions</h2>
-</section>
-<section id="roles" class="level2">
-<h2 class="anchored" data-anchor-id="roles">Roles</h2>
-</section>
-<section id="conclusions" class="level2">
-<h2 class="anchored" data-anchor-id="conclusions">Conclusions</h2>
-</section>
-</section>
-<section id="emotion-and-the-response-to-fiction" class="level1">
-<h1>Emotion and the Response to Fiction</h1>
-<section id="finding-the-problem" class="level2">
-<h2 class="anchored" data-anchor-id="finding-the-problem">Finding the problem</h2>
-</section>
-<section id="the-options" class="level2">
-<h2 class="anchored" data-anchor-id="the-options">The options</h2>
-</section>
-<section id="a-theory-of-emotion" class="level2">
-<h2 class="anchored" data-anchor-id="a-theory-of-emotion">A theory of emotion</h2>
-</section>
-<section id="a-solution" class="level2">
-<h2 class="anchored" data-anchor-id="a-solution">A solution</h2>
-</section>
-<section id="objections-and-revisions" class="level2">
-<h2 class="anchored" data-anchor-id="objections-and-revisions">Objections and revisions</h2>
-</section>
-<section id="alternatives" class="level2">
-<h2 class="anchored" data-anchor-id="alternatives">Alternatives</h2>
-</section>
-<section id="one-solution-or-two" class="level2">
-<h2 class="anchored" data-anchor-id="one-solution-or-two">One solution or two?</h2>
-</section>
-<section id="emotional-congruence" class="level2">
-<h2 class="anchored" data-anchor-id="emotional-congruence">Emotional congruence</h2>
-</section>
-<section id="psychological-kinds" class="level2">
-<h2 class="anchored" data-anchor-id="psychological-kinds">Psychological kinds</h2>
+<p>Because fiction is a relational property, they are community based and “depend on the prevailing attitudes of the community, or of a subgroup of the community rather than the ideas of a single individual” <span class="citation" data-cites="curr90">(<a href="#ref-curr90" role="doc-biblioref">Currie 1990, 10</a>)</span>.</p>
+<blockquote class="blockquote">
+<p>For I take it that an act of joint authorship is exactly that: an act engaged in by more than one person rather than several distinct acts undertaken individually and patched together. <span class="citation" data-cites="curr90">(<a href="#ref-curr90" role="doc-biblioref">Currie 1990, 11</a>)</span></p>
+</blockquote>
+<p>The process of creating a fiction begins with the intention. It is not a singular intention however, but is a social enterprise. So maybe the reason that we do not call fake news, fiction, is because of the purposes and intent of fake news. It is intended to deceive rather than express true propositions. But if this is true, then why do we not consider that fiction is intended to deceive? Why does fiction have semantic properties such as truth whereas fake news does not?</p>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-curr90" class="csl-entry" role="listitem">
+Currie, Gregory. 1990. <em>The Nature of Fiction</em>. 171. Cambridge [England] ; New York: Cambridge University Press.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Modern schools of criticism, Terry Eagleton, Literary Theory, 1983; Russian Formalists, L.T. Lemon and MJ Reis, Russian Formalist Criticism: Four Essays, 1965; on Structuralism, see Jonathan Culler, Structuralist Poetics, 1975; New Criticism, see Cleanth Brooks, The Well-Wrought Urn, 1949.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Anatomy of Criticism, 1975, 122<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

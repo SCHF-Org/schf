@@ -1,7 +1,7 @@
 ---
-title: "The Epistemic Injustice of Authentic Art"
+title: "Strange Legal Concerns"
 subtitle: "Commentaries on Patricia Collins"
-date: '2025-12-07'
+date: '2025-12-08'
 ---
 
 In a previous post, I highlighted some concerns raised by @layb18 regarding representation and authenticity. Here, I want to draw attention to some additional similar concerns. I then raise me own concerns, I specify that these criticisms unfairly focus too narrowly on the black experience and do not do a good enough job in recognizing that these experiences are universal. Given their universality, I argue that a best response is found in a Christian theodicy to evil. I draw on the psychological literature of in-group and out-group behavior.
@@ -38,4 +38,4 @@ Roe v. Wade overshoots the reasons supporting Eisenstadt v. Baird.
 
 > It seems fair to observe, however, that the “undue burden” formula is vague, amorphous, malleable, and adjustable. In a scheme of judicial development of an unwritten right, it should be open to the Court to conclude that prohibitions on trait-specific abortions do not burden in a relevant way the right to abortion itself, but only the right to trait selection of born children through the means of abortion.
 
-In other words, point out that the language in roe and casey do not burden decision to abort, but only one reason for aborting a fetus.
+In other words, point out that the language in roe and casey do not burden decision to abort, but only one possible reason for aborting a fetus.
