@@ -1,0 +1,68 @@
+---
+title: "Manticore"
+subtitle: "Literature Review Summary"
+date: '2025-12-30'
+---
+
+<style>
+  .columns { display: flex; gap: 20px; flex-wrap: wrap; }
+  .column { flex: 1; min-width: 300px; }
+  iframe { width: 100%; height: 600px; border: none; }
+</style>
+
+In what follows, are descriptions of what is commonly called the Manticore. The descriptions of the manticore were first found in Persian literature. Some of these descriptions are traced to the Greek physician Ctesias who served on the court of king Artaxerxes II of Persia until 398/397 BCE.
+
+::: {.columns .align-items-center .justify-content-center}
+
+::: {.column}
+
+<iframe src="https://www.theoi.com/image/pictures-manticore.jpg" style="border:none;" height="10px" frameborder="0"></iframe>
+:::
+
+::: {.column}
+
+Manticore, Der Naturen Bloeme manuscript (1350), [National Library of the Netherlands](https://www.kb.nl/)
+
+:::
+
+:::
+
+https://brians.wsu.edu/2017/02/14/the-manticore/
+
+* The Book of Imaginary Beings, Jorge Luis Borges, p. 98 [In Zotero and drive databases]
+* The Natural History of Pliny the Elder, p. 313, ch. 45 --- The corocotta; the mantichora [zotero and drive databases]
+
+> By the union of the hyæna with the Æthiopian lioness, the and destructive nature of the red ants on the coast of Guinea ; and it is not improbable that it is to these that Pliny alludes.^[See B. v. c. 33.; This is mentioned by Ælian, Anim. Nat. B. xv. c. 26.-B. The scolopendra is one of the multipede insects.; Aristotle, De Gener. Anim. B. iii. c. 6, and Hist. Anim. B. vi. c. 32, accounts for the vulgar error, by stating that the hyæna has a peculiar structure of the parts about the anus, which might, to an unpractised eye, give the idea, that it possesses the generative organs of both sexes. Ælian,; Anim. Nat. B. i. c. 25, and Oppian, Cyneget. B. iii. c. 289, have adopted this erroneous opinion. What is said respecting the hyæna, in the remain- ing part of this Chapter, is mostly without foundation.-B.; We have had some account given of the mantichora, in c. 30. The mantichora and the corocotta are altogether imaginary.-B. Cuvier, in Chap. 47.] corocotta is produced, which has the same faculty of imitating the voices of men and cattle. Its gaze is always fixed and immoveable ; it has no gums in either of its jaws, and the teeth are one continuous piece of bone ; they are enclosed in a sort of box as it were, that they may not be blunted by rub- bing against each other. Juba informs us, that the mantichora of Æthiopia can also imitate the human speech.
+
+> Ctesias informs us, that among these same Æthiopians, there is an animal found, which he calls the mantichora ; it has a triple row of teeth, which fit into each other like those of a comb, the face and ears of a man, and azure eyes, is of the colour of blood, has the body of the lion, and a tail ending in a sting, like that of the scorpion. Its voice resembles the union of the sound of the flute and the trumpet ; it is of excessive swiftness, and is particularly fond of human flesh.^[This description of the mantichora appears to be taken from the Indica of Ctesias ; it has been also adopted by Aristotle and Ælian, but they have qualified their accounts by some expressions of doubt, which are omitted by Pliny. It has been conjectured, that Ctesias took his descrip- tion from the hieroglyphic figures in his time, probably common in the East, and still found in the ruins of the Assyrian and Persian cities, Ni- neveh and Persepolis, for instance.-B.] [p. 280]
+
+* Aristotle's History of Animals
+
+> None of these genera have a double row of teeth. But, if we may believe Ctesias, there are some which have this peculiarity, for he mentions an Indian animal called martichora, which had three rows of teeth in each jaw; it is as large and as rough as a lion, and has similar feet, but its ears and faceare like those of a man; its eye is grey, and its body red; it has a tail like aland scorpion, inwhich there is a sting; it darts forth the spines with which it is covered instead of hair, and it utters a noise resembling the united sound of a pipe and a trumpet; it is not less swift of foot than a stag, and is wild, and devours men. [p. 30-31; also see [Aristotle, History of Animals 8.28, 605b22-606a10](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg014.1st1K-grc1:8.28/)]
+
+* Bodleian Library MS.
+
+:::: {.columns}
+
+::: {.columns}
+
+::: {.column width="100%"}
+<iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2Feb0735a3-e8ee-4104-b111-51d18a13b78b%2Fsurfaces%2F47fdb9fa-11fa-4f08-b488-4fff023a6792%2F" width="100%" height="600px" allowfullscreen frameborder="0"></iframe>
+
+Fol. 009v – Early folio (text/other beast)
+:::
+
+::: {.column width="100%"}
+<iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2Fe6ad6426-6ff5-4c33-a078-ca518b36ca49%2Fsurfaces%2F86bee6cc-7b69-44b6-b264-579f4ac6576c%2F" width="100%" height="600px" allowfullscreen frameborder="0"></iframe>
+
+Fol. 025r – Classic manticore (MS. Bodl. 764)
+:::
+:::
+
+::: {.column width="100%"}
+<iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2Fecf96804-a514-4adc-8779-2dbc4e4b2f1e%2Fsurfaces%2Fee2bf789-7152-449b-9760-fa864718e2d0%2F" width="100%" height="600px" allowfullscreen frameborder="0"></iframe>
+
+Fol. 022v – Manticore variant (MS. Ashmole 1511)
+:::
+
+::::

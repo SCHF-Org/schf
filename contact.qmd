@@ -1,0 +1,22 @@
+---
+title: "Montaque Reynolds"
+about:
+  id: contact
+  template: solana
+  image-shape: round
+  image: ./people/reynolds-monty/avatar.jpg
+# page-layout: full
+---
+
+:::{#contact}
+
+#### {{< fa envelope >}} &nbsp; mreynolds1@stetson.edu
+
+#### {{< fa phone >}} &nbsp; 206-234-3477
+
+#### {{< fa map-location-dot >}} &nbsp; Department of Philosophy, Elizabeth Hall 104, Stetson University, Deland, Fl 32723
+
+
+:::
+
+

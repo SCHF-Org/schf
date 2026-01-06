@@ -1,0 +1,45 @@
+---
+title: "Join the SCHF Discord!"
+subtitle: "Guidelines & Welcome | Human Flourishing"
+description: |
+  **Welcome** to our scholarly community for exploring video games and human flourishing (bi-weekly sessions). See [full guidelines](#rules-channel) or [website](https://saleno-center-for-human-flourishing.github.io/).
+
+---
+
+::: {.columns .columns-2}
+
+::: {.column}
+
+**Principles**: Respect, rigor, inclusivity, flourishing.
+
+**Key Expectations**:
+• **Do**: Thoughtful analysis; constructive dialogue; on-topic.
+• **No**: Harassment, hate speech, NSFW, piracy, spoilers (warn).
+
+**Content**: Tie to themes of growth/empathy; credit sources.
+
+**Safety**: No personal info. Report: #report/@Mod (24h review).
+
+**Enforcement**: Caution → Mute → Ban. Appeals: DM @SalenoAdmin.
+
+**Full Policy**: [Detailed Version](https://discord.gg/gKngF66yxW)
+
+*Endorsed for communal eudaimonia.*
+:::
+
+::: {.column}
+
+<div style="text-align: center; padding: 2rem; background: linear-gradient(135deg, #5865F2, #4752C4); color: white; border-radius: 20px; margin: 2rem auto; max-width: 500px; box-shadow: 0 10px 40px rgba(88, 101, 242, 0.4);">
+  <h2>🎮 Join the SCHF Discord Server</h2>
+  <p style="font-size: 1.2em; margin: 1rem 0;">Bi-weekly meaningful games for flourishing<br><strong>Students only | Active community</strong></p>
+  <a href="https://discord.gg/9vm86YJuqB"
+     style="display: inline-block; background: white; color: #5865F2; padding: 1.2rem 3rem; font-size: 1.4em; font-weight: bold; text-decoration: none; border-radius: 50px; box-shadow: 0 8px 25px rgba(255,255,255,0.3); transition: all 0.3s;"
+     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 35px rgba(255,255,255,0.4)'"
+     target="_blank">
+    🚀 Join Now (Live Preview)
+  </a>
+  <p style="opacity: 0.9; font-size: 0.95em; margin-top: 1rem;">~XX members | See who's online</p>
+</div>
+:::
+
+::::

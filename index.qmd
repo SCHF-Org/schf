@@ -1,0 +1,32 @@
+---
+# title: 'Welcome to the Masiello Group: <span style="color:#757883">light-matter theory at the nanoscale</span>'
+# subtitle: "light-matter theory at the nanoscale"
+page-layout: full
+---
+<div class="gradient-text">
+
+<div class="welcome-headline">
+Experience Machines<br>
+</div>
+<div class="welcome-subheadline">
+
+Modeling Moral Attachments in Art
+
+</div>
+</div>
+
+::::{.cmm-background style="display: flex; justify-content: center; align-items: center; min-height: 75vh;"}
+::: {.content-container}
+::: {.welcome }
+
+::: {.g-col-10 .g-col-lg-10 .welcome-text .sand-background style="padding: 2px; text-align: left;"}
+
+Artworks like *The Fate of Ophelia* by Taylor Swift and the *Bioshock* series by 2k can sometimes motivate us to imagine our ethical commitments or ideal ethical commitments such as family, friendship, lovers, meaning and purpose.
+
+
+:::
+
+:::
+:::
+::::
+

@@ -1,0 +1,61 @@
+---
+title: &TITLE Montaque Reynolds
+last: Reynolds
+first: Montaque
+people_group: "pi"
+email: "mreynolds1@stetson.edu"
+education:
+  - Ph.D Philosophy | Saint Louis University | 2024 <br> M.A. Philosophy | Oklahoma State University | 2017 <br> B.A. Philosophy | Seattle Pacific University | 2015
+subtitle: "Visiting Assistant Professor, Philosophy"
+description: ""
+project: "dmref"
+affiliation: Stetson University
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:masiello@uw.edu
+    - text: Google Scholar
+      icon: mortarboard
+      href: https://scholar.google.com/citations?hl=en&user=mgP_xO8AAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/MasielloGroup
+---
+
+<hr>
+
+
+:::{#about}
+
+David J. Masiello is a professor of Chemistry, adjunct professor of Applied Mathematics, and adjunct professor of Materials Science and Engineering at the University of Washington.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::
