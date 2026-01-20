@@ -1,7 +1,15 @@
 ---
 title: "Aesthetics of Evel in Middle Ages by Ricardo Pinero Moral"
 subtitle: "Representations of Evil"
-date: '2026-01-06'
+date: '2026-01-15'
 ---
 
-The Manticore is an imagined beast that has been found in literature as early as the 5th and 4th century BC. In his Photius, the Greek historian working for the Persian court writes describes the Manticore as a beast with red skin, as large as a lion, three rows of teeth, human like face and the tail of a scorpian. Later writers would quote Ctesias' description of the Manticore, adding emphasis on the dietary habits of it, including that it ate men. Though it is likely that many of these descriptions were of predatory animals passed by word of mouth until they reached the Persian king's court, what is even more important is the way in which these descriptions began to stand in for imageries of evil in the Medieval literature.
+The Manticore is an imagined beast that has been found in literature as early as the 5th and 4th century BC. In his Photius, the Greek historian working for the Persian court writes describes the Manticore as a beast with red skin, as large as a lion, three rows of teeth, human like face and the tail of a scorpion. Later writers would quote Ctesias' description of the Manticore, adding emphasis on its dietary habits, including that it ate men. Though it is likely that many of these descriptions were of predatory animals passed by word of mouth until they reached the Persian king's court, what is even more important is the way in which these descriptions began to stand in for imageries of evil in the Medieval literature.
+
+Evil is often given descriptions of more recognizable items such as animals. One such description exists in the document *Libellus in modum Symboli* written by the bishop Pastor for the Council of Toledo in 447 [@alda34]. Evil is described as hideous, black, gigantic, fetid, horned and crowned with donkey ears and claws etc. Often accompanying such descriptions are dispositions and abilities. For instance, the evil guarding hell has often been said to have the magnetic ability to attract other objects and that it can annihilate objects like lightning [@much00, 27-28].
+
+There is an important distinction here between familiar and unfamiliar images.  It is not clear how the medievalist went about deciding when to use familiar imagery and when to use unfamiliar imagery.
+
+By combining familiar traits with unfamiliar ones, it is perhaps easier to express the concept that evil is immaterial rather than material. The immaterial attributes then become ones which we may be familiar with, but are at times difficult to identify. Moral initially alludes to why these decisions were made. He points out that the symbols would be useful for individuals express more conceptual images such as pain, death, the struggle between good and evil. But importantly here, are the roles in which such symbols play in our abilities to directly intuit the expressed attributes, death, pain, etc.
+
+Should we become confronted by outcomes commonly associated with them, by describing their immaterial natures, we are given a hermeneutic tool with which to deal with that event. For instance, evil personified as the devil has been described as a being which seduces, deceives, acts harmfully and violently and can be lethal. The proper symbology then will enable us to directly intuit the attributes of evil.
