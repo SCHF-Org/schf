@@ -1,6 +1,7 @@
 ---
 title: Blog
 listing:
+  id: research
   type: default
   sort: "date desc"
   fields: [date, title, description]

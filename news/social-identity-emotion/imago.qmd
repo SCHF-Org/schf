@@ -1,0 +1,79 @@
+---
+title: "Social Identity as an Expression of Emotion Response"
+subtitle: "Can social facts acts as predictors for emotional response?"
+date: '2026-01-27'
+---
+
+In his book *Gut Reactions*, Jesse Prinz points out several links between emotion and cognitive potential. Considering cognitive systems such as categorization, memory, attention, and reasoning, such systems have been shown to be affected by an individual's emotion states.
+
+1. "It is easier to recall events when we are in emotional states that are congruent with the events that we are recalling" (Bower, 1981)
+2. "Positive emotions tend to promote the user of stereotypes" (Bless, Schwarz, & Kemmelmeier, 1996)
+3. "Positive emotions tend to help us reason in ways that are open-minded, optimistic, and creative", for instance, "we have an easier time solving problems that require novel applications of familiar materials" (Isen, Daubman, & Nowicki, 1987).
+4. "Negative emotions tend to promote more narrow attentional focus. Anxiety makes us attend to threatening objects" (MacLeod & Mathews, 1991; Ohman, Flykt, & Esteves, 2001).
+
+Which of these are related to self-understood notions of identity?
+
+1. Narrative Identity
+2. Personal Identity
+3. Personal identity as response to what emotions one feels and when
+4. What emotions one feels is related to important cognitive processes
+
+# Processing Mode Theory
+
+Emotions can be identified with systematic changes in faculties of attention, memory, and reasoning [@prin04, 8].
+
+# Elements of Emotions (Parts)
+
+1. Thought
+2. Physiological Changes
+3. Attention and Memory
+4. Action Tendencies
+5. Modulations of Mental Processes: attention and conscious feelings
+
+# Theories of Emotion
+
+Locating the emotion is complicated by the fact that it is hard to trace it to a given 'part'. "Different theories of emotions offer different response[s] to the Problem of Parts [4].
+
+1. Folk Psychology: conscious feelings (feeling theory), i.e., Jaak Panksepp (2000)
+   1. body
+   2. but what comes first? Are feelings a perception of bodily changes? (William James, 1884; Karl Lange, 1885)
+
+> If James and Lange are right, then emotional experiences, then emotional experiences are experiences of various changes in the body [4].
+
+***Somatic Feeling Theory*** combines James-Lange with feeling theory
+
+1. If emotions are feelings
+2. and emotional feelings feelings of bodily changes,
+3. then emotions are feelings are feelings of bodily state changes
+
+## Narrow and Broad Somatic Theories
+
+1. Narrow: somatic=part of nervous system that receives information about the muscles of the body
+2. Broad: Inclusive, i.e., facial expression, increase in heart rate, secretion of hormones, etc.
+
+## Damsio (1994),
+
+1. somatic feeling theory
+2. somatic theory of emotion
+3. somatic theory of emotional feelings
+
+Damasio holds 2 and 3, but not 1
+
+### First expands bodily states
+
+1. emotional experiences are experiences of changes in the body
+2. Broad and also includes *internal milieu*, emotions can register changes in the levels of chemicals in the brain (hormone levels, endocrine system)
+
+### Second, 'as-if' loop
+
+1. absence of bodily changes
+2. brain centers normally activated with bodily changes
+3. do not rely on actual bodily changes
+
+> This is analogous to the supposition that we can form a visual image of a red apple when our retinae are not being stimulated [6].
+
+### Third, w/o conscious awareness
+
+1. brain can register changes in bodily states without conscious awareness
+2. unconscious neural responses to changes in bodily states count as emotions
+3. Therefore emotions can be conscious (but need not be)

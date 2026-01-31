@@ -1,0 +1,168 @@
+---
+title: "Aesthetics of Evil"
+#subtitle: ""
+date: '2026-01-31'
+---
+
+In medieval bestiaries, there are two classes of evil represented by beasts; those which deceive and those which generate fear and death. Among the first class of beasts, those which are notable for their abilities to deceive, there are three kinds of deception: these are noted by the camouflages of the chameleon, accurate imitations of the manticore, and the "seductive skills of sirens". While we might think this to be a medieval taxonomy of epistemic harms only, the kinds of epistemic harms the medievalists worried about are not far off from contemporary epistemic harms and risks; misinformation, false and inauthentic narratives, and bullshit.
+
+There are two kinds of beasts representing evil in medieval beastiaries; those that deceive and those that cause fear and death [@pine21]. These two characterizations are used by artistic means for educating the illiterate populations of the Middle Ages. More specifically, the purpose of this education is for orthodoxy, it is intended to promote proper behavior and right action.
+
+In her book *Epistemic Injustice*, @fric07 defines hermeneutic injustice as a gap in collective interpretive resources that hinder a person's ability to make sense of their own experiences. This is more akin to the kind of evil that deceives. There is good reason to think that hermeneutic injustice is not solely a modern evil, that if Fricker is correct, then there would be motivation to restrict a group's hermeneutic participation in social life.
+
+Historically, this injustice was committed against women, but there is not much reason to think that it was committed only against women.  As an injustice, this is a source of evil in that it is an experience that is direct an intuitive by the victim of the evil [@russ16, 1]. More specifically, it is a representation of the one kind of evil. This is the kind of evil that is evil specifically because it deceives. This kind of evil was represented artistically in medieval beastiaries through the image of the manticore.
+
+## Hermeneutic Marginalization
+
+> "Beastiaries are composed of different hermeneutic codes which are mapped to different sensitive levels, that is, from the level describing mere anatomy we may turn to the one
+dealing with ethical-philosophical consideration; and further turn to the one on moral
+perspectives which are later complemented with the theological ones (Voisenet 2020,
+pp. 321–25). In all these cases, the fields of word and those of image are intertwined (Kay
+2017). In the end, XII–XIII century bestiaries, books on natural history and encyclopedias
+allow us to access a world where both the creative power of goodness and evil are present:
+The excellence of divine creation and the subtlety of diabolic action play a role."
+
+### Types of hermeneutic codes
+
+* 'Mere' anatomy
+* Ethical-philosophical considerations
+* Moral perspectives
+* Theological perspectives
+
+## What is a hermeneutic code in these cases?
+
+A way to understand this may be arts divergent foci on simple reality and complex reality. Between these two representations is a set of norms culturally and socially constructed to guide the representation of the human condition: experience, knowledge, and beliefs. The conflict here is between God and the devil. What specifically are the adverse actions, carried out by the one against the other in this space? Jesus' death, burial, and resurrection is at one level an adverse action carried out by the work of the devil, yet at the same time, it is also symbolic of the ultimate victory, that of God over sin, death, hell, and the grave.
+
+> "Its commitment with reality is undeniable yet the reality which it at
+tempts to represent is so complex and vast that the limits between what is and what is not,
+between what we believe and what we know, between what we are and what we wish to
+be, are often blurred (Cronin 1941). Medieval ars is much more than a set of norms which
+ought to be followed to produce something that can be called art. "
+
+> "Art, so understood, is a necessary element in the configuration of human
+condition in terms of experience, knowledge, and beliefs.
+It is within this context where the action of God and that of the devil provide one of
+the most profound lectures of reality."
+
+The manticore, but many accounts, was initially found in Persian literature as early as the 5th and 4th century BC. In his Photius, the Greek historian working for the Persian court describes the Manticore as a beast with red skin, as large as a lion, three rows of teeth, human like face and the tail of a scorpion. Later writers would quote Ctesias' description of the Manticore, adding emphasis on its dietary habits, including that it ate men. Though it is likely that many of these descriptions were of predatory animals passed by word of mouth until they reached the Persian king's court, what is even more important is the way in which these descriptions began to stand in for imageries of evil in the Medieval literature.
+
+> By the union of the hyæna with the Æthiopian lioness, the and destructive nature of the red ants on the coast of Guinea ; and it is not improbable that it is to these that Pliny alludes.^[See B. v. c. 33.; This is mentioned by Ælian, Anim. Nat. B. xv. c. 26.-B. The scolopendra is one of the multipede insects.; Aristotle, De Gener. Anim. B. iii. c. 6, and Hist. Anim. B. vi. c. 32, accounts for the vulgar error, by stating that the hyæna has a peculiar structure of the parts about the anus, which might, to an unpractised eye, give the idea, that it possesses the generative organs of both sexes. Ælian,; Anim. Nat. B. i. c. 25, and Oppian, Cyneget. B. iii. c. 289, have adopted this erroneous opinion. What is said respecting the hyæna, in the remain- ing part of this Chapter, is mostly without foundation.-B.; We have had some account given of the mantichora, in c. 30. The mantichora and the corocotta are altogether imaginary.-B. Cuvier, in Chap. 47.] corocotta is produced, which has the same faculty of imitating the voices of men and cattle. Its gaze is always fixed and immoveable ; it has no gums in either of its jaws, and the teeth are one continuous piece of bone ; they are enclosed in a sort of box as it were, that they may not be blunted by rub- bing against each other. Juba informs us, that the mantichora of Æthiopia can also imitate the human speech. [The Natural History of Pliny the Elder, p. 313, ch. 45 --- The corocotta; the mantichora]
+
+Evil is often given descriptions of more recognizable items such as animals. One such description exists in the document *Libellus in modum Symboli* written by the bishop Pastor for the Council of Toledo in 447 [@alda34]. Evil is described as hideous, black, gigantic, fetid, horned and crowned with donkey ears and claws etc. Often accompanying such descriptions are dispositions and abilities. For instance, the evil guarding hell has often been said to have the magnetic ability to attract other objects and that it can annihilate objects like lightning [@much00, 27-28].
+
+* Aristotle's History of Animals
+
+> None of these genera have a double row of teeth. But, if we may believe Ctesias, there are some which have this peculiarity, for he mentions an Indian animal called martichora, which had three rows of teeth in each jaw; it is as large and as rough as a lion, and has similar feet, but its ears and faceare like those of a man; its eye is grey, and its body red; it has a tail like aland scorpion, inwhich there is a sting; it darts forth the spines with which it is covered instead of hair, and it utters a noise resembling the united sound of a pipe and a trumpet; it is not less swift of foot than a stag, and is wild, and devours men. [p. 30-31; also see [Aristotle, History of Animals 8.28, 605b22-606a10](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg014.1st1K-grc1:8.28/)]
+
+There is an important distinction here between familiar and unfamiliar images.  It is not clear how the medievalist went about deciding when to use familiar imagery and when to use unfamiliar imagery.
+
+> Ctesias informs us, that among these same Æthiopians, there is an animal found, which he calls the mantichora ; it has a triple row of teeth, which fit into each other like those of a comb, the face and ears of a man, and azure eyes, is of the colour of blood, has the body of the lion, and a tail ending in a sting, like that of the scorpion. Its voice resembles the union of the sound of the flute and the trumpet ; it is of excessive swiftness, and is particularly fond of human flesh.^[This description of the mantichora appears to be taken from the Indica of Ctesias ; it has been also adopted by Aristotle and Ælian, but they have qualified their accounts by some expressions of doubt, which are omitted by Pliny. It has been conjectured, that Ctesias took his descrip- tion from the hieroglyphic figures in his time, probably common in the East, and still found in the ruins of the Assyrian and Persian cities, Ni- neveh and Persepolis, for instance.-B.] [p. 280]
+
+* Aristotle's History of Animals
+
+By combining familiar traits with unfamiliar ones, it is perhaps easier to express the concept that evil is immaterial rather than material. The immaterial attributes then become ones which we may be familiar with, but are at times difficult to identify. Moral initially alludes to why these decisions were made. He points out that the symbols would be useful for individuals express more conceptual images such as pain, death, the struggle between good and evil. But importantly here, are the roles in which such symbols play in our abilities to directly intuit the expressed attributes, death, pain, etc.
+
+* Bodleian Library MS.
+
+:::: {.columns}
+
+::: {.columns}
+
+::: {.column width="100%"}
+<iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2Feb0735a3-e8ee-4104-b111-51d18a13b78b%2Fsurfaces%2F47fdb9fa-11fa-4f08-b488-4fff023a6792%2F" width="100%" height="600px" allowfullscreen frameborder="0"></iframe>
+
+Fol. 009v – Early folio (text/other beast)
+:::
+
+::: {.column width="100%"}
+<iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2Fe6ad6426-6ff5-4c33-a078-ca518b36ca49%2Fsurfaces%2F86bee6cc-7b69-44b6-b264-579f4ac6576c%2F" width="100%" height="600px" allowfullscreen frameborder="0"></iframe>
+
+Fol. 025r – Classic manticore (MS. Bodl. 764)
+:::
+:::
+
+::: {.column width="100%"}
+<iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2Fecf96804-a514-4adc-8779-2dbc4e4b2f1e%2Fsurfaces%2Fee2bf789-7152-449b-9760-fa864718e2d0%2F" width="100%" height="600px" allowfullscreen frameborder="0"></iframe>
+
+Fol. 022v – Manticore variant (MS. Ashmole 1511)
+:::
+
+::::
+
+Should we become confronted by outcomes commonly associated with them, by describing their immaterial natures, we are given a hermeneutic tool with which to deal with that event. For instance, evil personified as the devil has been described as a being which seduces, deceives, acts harmfully and violently and can be lethal. The proper symbology then will enable us to directly intuit the attributes of evil.
+
+# Constructing the Emotions
+
+In his book *Gut Reactions*, Jesse Prinz points out several links between emotion and cognitive potential. Considering cognitive systems such as categorization, memory, attention, and reasoning, such systems have been shown to be affected by an individual's emotion states.
+
+1. "It is easier to recall events when we are in emotional states that are congruent with the events that we are recalling" (Bower, 1981)
+2. "Positive emotions tend to promote the user of stereotypes" (Bless, Schwarz, & Kemmelmeier, 1996)
+3. "Positive emotions tend to help us reason in ways that are open-minded, optimistic, and creative", for instance, "we have an easier time solving problems that require novel applications of familiar materials" (Isen, Daubman, & Nowicki, 1987).
+4. "Negative emotions tend to promote more narrow attentional focus. Anxiety makes us attend to threatening objects" (MacLeod & Mathews, 1991; Ohman, Flykt, & Esteves, 2001).
+
+Which of these are related to self-understood notions of identity?
+
+1. Narrative Identity
+2. Personal Identity
+3. Personal identity as response to what emotions one feels and when
+4. What emotions one feels is related to important cognitive processes
+
+# Processing Mode Theory
+
+Emotions can be identified with systematic changes in faculties of attention, memory, and reasoning [@prin04, 8].
+
+# Elements of Emotions (Parts)
+
+1. Thought
+2. Physiological Changes
+3. Attention and Memory
+4. Action Tendencies
+5. Modulations of Mental Processes: attention and conscious feelings
+
+# Theories of Emotion
+
+Locating the emotion is complicated by the fact that it is hard to trace it to a given 'part'. "Different theories of emotions offer different response[s] to the Problem of Parts [4].
+
+1. Folk Psychology: conscious feelings (feeling theory), i.e., Jaak Panksepp (2000)
+   1. body
+   2. but what comes first? Are feelings a perception of bodily changes? (William James, 1884; Karl Lange, 1885)
+
+> If James and Lange are right, then emotional experiences, then emotional experiences are experiences of various changes in the body [4].
+
+***Somatic Feeling Theory*** combines James-Lange with feeling theory
+
+1. If emotions are feelings
+2. and emotional feelings feelings of bodily changes,
+3. then emotions are feelings are feelings of bodily state changes
+
+## Narrow and Broad Somatic Theories
+
+1. Narrow: somatic=part of nervous system that receives information about the muscles of the body
+2. Broad: Inclusive, i.e., facial expression, increase in heart rate, secretion of hormones, etc.
+
+## Damsio (1994),
+
+1. somatic feeling theory
+2. somatic theory of emotion
+3. somatic theory of emotional feelings
+
+Damasio holds 2 and 3, but not 1
+
+### First expands bodily states
+
+1. emotional experiences are experiences of changes in the body
+2. Broad and also includes *internal milieu*, emotions can register changes in the levels of chemicals in the brain (hormone levels, endocrine system)
+
+### Second, 'as-if' loop
+
+1. absence of bodily changes
+2. brain centers normally activated with bodily changes
+3. do not rely on actual bodily changes
+
+> This is analogous to the supposition that we can form a visual image of a red apple when our retinae are not being stimulated [6].
+
+### Third, w/o conscious awareness
+
+1. brain can register changes in bodily states without conscious awareness
+2. unconscious neural responses to changes in bodily states count as emotions
+3. Therefore emotions can be conscious (but need not be)

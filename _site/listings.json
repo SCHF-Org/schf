@@ -10,7 +10,7 @@
     ]
   },
   {
-    "listing": "/research/fast_electron_nano-spectroscopy/index.html",
+    "listing": "/research/aesthetics/index.html",
     "items": []
   },
   {
@@ -51,7 +51,11 @@
   {
     "listing": "/news/index.html",
     "items": [
+      "/news/2026-01-31-ph-club/aest-evil.html",
+      "/news/social-identity-emotion/imago.html",
+      "/news/2026-01-26-aes-evil/imago.html",
       "/news/2026-01-15-moral-manticore/moral.html",
+      "/news/peterson-imago/imago.html",
       "/news/2026-01-06-fric/fricker.html",
       "/news/2025-12-30-man-arg-sum/manticore-arg-summary.html",
       "/news/2025-12-27-unjust-religion/unjust-reli.html",
@@ -180,9 +184,9 @@
   {
     "listing": "/research/index.html",
     "items": [
-      "/research/nanophotonics-quantum_optics/index.html",
       "/research/photothermal_spectroscopy_and_microscopy/index.html",
-      "/research/fast_electron_nano-spectroscopy/index.html",
+      "/research/aesthetics/index.html",
+      "/research/nanophotonics-quantum_optics/index.html",
       "/research/metaphysics/index.html"
     ]
   },

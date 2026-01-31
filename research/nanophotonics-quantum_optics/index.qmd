@@ -1,5 +1,5 @@
 ---
-title: "Aesthetic Values"
+title: "Philosophy of Mind"
 alias: &ALIAS evaluation
 image: featured.jpg
 listing:
