@@ -21,8 +21,14 @@ Modeling Moral Attachments in Art
 
 ::: {.g-col-10 .g-col-lg-10 .welcome-text .sand-background style="padding: 2px; text-align: left;"}
 
-Artworks like *The Fate of Ophelia* by Taylor Swift and the *Bioshock* series by 2k can sometimes motivate us to imagine our ethical commitments or ideal ethical commitments such as family, friendship, lovers, meaning and purpose.
+Exploring art's profound capacity to ignite ethical reflection on our deepest bonds—family, friendship, love—and the paths that lead to union with God. We explore how popular artworks—like Taylor Swift's "The Fate of Ophelia," which reimagines Shakespeare's tragic heroine through themes of loss, resilience, and redemptive love, and the BioShock series by 2K Games, with its gripping moral choices in dystopian worlds—could spark our moral imaginations, though they often fail to do so. These creations often prompt us to reflect deeply on our core ethical commitments: bonds of family and friendship, romantic love, personal meaning, and life's greater purpose. Join us as we bridge philosophy, technology, and creativity to nurture a more ethical, flourishing world.
 
+If you are a someone working at the intersection of music, games and other aspects of popculture and ethics, or a professional game designer working on a game that focuses on ethical play, you are welcome to contribute to this site. I am particularly looking for:
+
+* Links to papers (past or present) on games and ethics,
+* Reviews of games with interesting approaches to ethical play,
+* Reviews of books on games and ethics,
+* Announcements of events (conferences, workshops etc) related to games and ethics.
 
 :::
 
