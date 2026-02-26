@@ -21,9 +21,14 @@ Modeling Moral Attachments in Art
 
 ::: {.g-col-10 .g-col-lg-10 .welcome-text .sand-background style="padding: 2px; text-align: left;"}
 
-At the Salerno Center for Human Flourishing, we examine the profound, intimate connection between art and ethics. Exploring art's capacity to ignite ethical reflection on our deepest bonds—family, friendship, love—and the meaningful paths toward union with God. We look at how powerful artworks—such as those which may reimagine Shakespeare's tragic heroine through themes of loss, resilience, and redemptive love, dystopian video games with their gripping moral choices—have the potential to spark our moral imagination. These creations intend to prompt us to reflect deeply on our core ethical commitments: bonds of family and friendship, romantic love, personal meaning, and life's greater purpose.
+Philosophy for the Real World, the Saleno Center for Human Flourishing is an academic research organization dedicated to understanding how the art we consume shapes who we become.
 
-Join us as we bridge philosophy, technology, and creativity to nurture a more deeper connection with God and with each other.
+* Art's capacity to ignite ethical reflection on our deepest bonds—family, friendship, love—and the meaningful paths toward union with God.
+* Interactive Ethics, how video games create moral dilemmas that force players to confront their values in ways traditional philosophy cannot.
+* Music & Moral Identity, how artists use narrative to help listeners process emotions and imagine ethical commitments.
+* Aesthetic Sentimentalism, bridging aesthetics and ethics to understand how beauty, emotion, and moral knowledge intertwine in popular art forms.
+
+Join us as we bridge philosophy, technology, and art to nurture a deeper connection with God and with each other.
 
 If you are a someone working at the intersection of music, games and other aspects of popculture and ethics, or a professional game designer working on a game that focuses on ethical play, you are welcome to contribute to this site. I am particularly looking for:
 

@@ -1,10 +1,11 @@
 ---
-title: Current Projects
+title: Current Games
 listing:
   id: research
   type: grid
 page-layout: full
 ---
+
 <!-- <style> -->
 <!--   body { -->
 <!--   background-image: url('images/chalkboard_sm.jpg'); -->

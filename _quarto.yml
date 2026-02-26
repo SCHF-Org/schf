@@ -34,12 +34,12 @@ website:
       - href: people/index.qmd
         text: people
       - href: research/index.qmd
-      - href: publications/index.qmd
+#      - href: publications/index.qmd
       - text: "Discord"
         href: dmref/index.qmd
-      - href: codes/index.qmd
-        text: Codes
-      - href: news/index.qmd
+#      - href: codes/index.qmd
+#        text: Codes
+#      - href: news/index.qmd
       - href: contact.qmd
         text: Contact
 
