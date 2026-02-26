@@ -46,7 +46,7 @@ about:
 
 :::{#about}
 
-David J. Masiello is a professor of Chemistry, adjunct professor of Applied Mathematics, and adjunct professor of Materials Science and Engineering at the University of Washington.
+Montaque Reynolds is an visiting assistant professor of philosophy at Stetson University.
 
 ## Education
 {{< meta education >}}

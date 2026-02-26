@@ -8,8 +8,6 @@ description: |
 
 ::: {.columns .columns-2}
 
-::: {.column}
-
 **Principles**: Respect, rigor, inclusivity, flourishing.
 
 **Key Expectations**:
@@ -25,9 +23,8 @@ description: |
 **Full Policy**: [Detailed Version](https://discord.gg/gKngF66yxW)
 
 *Endorsed for communal eudaimonia.*
-:::
 
-::: {.column}
+:::
 
 <div style="text-align: center; padding: 2rem; background: linear-gradient(135deg, #5865F2, #4752C4); color: white; border-radius: 20px; margin: 2rem auto; max-width: 500px; box-shadow: 0 10px 40px rgba(88, 101, 242, 0.4);">
   <h2>🎮 Join the SCHF Discord Server</h2>
@@ -40,6 +37,4 @@ description: |
   </a>
   <p style="opacity: 0.9; font-size: 0.95em; margin-top: 1rem;">~XX members | See who's online</p>
 </div>
-:::
 
-::::
