@@ -53,13 +53,13 @@ website:
         - href: dmref/index.qmd
           text: SCHF Discord
         - href: dmref/people/index.qmd
-          text: The EXP Machine
-        - href: dmref/publications/index.qmd
-          text: DMREF-Related Publications
+          text: The EXP Machine Team
+        #- href: dmref/publications/index.qmd
+        #  text: DMREF-Related Publications
         - href: dmref/codes/index.qmd
-          text: Computer Codes
-        - href: dmref/data/index.qmd
-          text: Team Data
+        #  text: Computer Codes
+        #- href: dmref/data/index.qmd
+        #  text: Team Data
 
     - id: empty-to-suppress-sidebars-on-other-pages
 

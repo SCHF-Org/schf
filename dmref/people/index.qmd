@@ -34,7 +34,7 @@ listing:
     type: grid
     fields: [title, affiliation, image]
 ---
-<img src="../../images/dmref-logo.png" style="float: left; width: 130px; margin-top: 25px;"><h1>The NSF DMREF Team</h1>
+<img src="../../images/sc-logo.png" style="float: left; width: 130px; margin-top: 25px;"><h1>The Experience Machine Team</h1>
 
 ## Principal Investigators
 

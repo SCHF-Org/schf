@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>index – The Experience Machine</title>
+<title>Owen the Osiris – The Experience Machine</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,7 +38,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -76,76 +75,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-pi .list');
+    const listingTargetEl = window.document.querySelector('#listing-pubs .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-affiliation','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
-      
-      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-last","listing-first","listing-people_group","listing-email","listing-education","listing-subtitle","listing-description","listing-affiliation","listing-image","listing-listing","listing-page-layout","listing-about","listing-path","listing-outputHref","listing-author","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-pi'] = new List('listing-pi', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-postdoc .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-affiliation','listing-image',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-publication','listing-title','listing-categories','listing-image','listing-date','listing-author',{ data: ['index'] },{ data: ['categories'] }],
       
       searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-postdoc'] = new List('listing-postdoc', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-gradstudent .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-affiliation','listing-image',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: [],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-gradstudent'] = new List('listing-gradstudent', options);
+    window['quarto-listings']['listing-pubs'] = new List('listing-pubs', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -204,14 +147,11 @@ window.Quarto = {
 };
 </script>
 
-<meta name="twitter:title" content="The Experience Machine">
-<meta name="twitter:image" content="https://faculty.washington.edu/masiello/images/sc-logo.png">
-<meta name="twitter:image-height" content="64">
-<meta name="twitter:image-width" content="64">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Owen the Osiris – The Experience Machine">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-sidebar floating nav-fixed quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -238,7 +178,7 @@ window.Quarto = {
 <span class="menu-text">Current Games</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../../dmref/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../dmref/index.html"> 
 <span class="menu-text">Discord</span></a>
   </li>  
   <li class="nav-item">
@@ -251,150 +191,77 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../dmref/people/index.html">The EXP Machine Team</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../dmref/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">SCHF Discord</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../dmref/people/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">The EXP Machine Team</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../dmref/codes/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">index.html</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#principal-investigators" id="toc-principal-investigators" class="nav-link active" data-scroll-target="#principal-investigators">Principal Investigators</a></li>
-  <li><a href="#postdoctoral-fellows" id="toc-postdoctoral-fellows" class="nav-link" data-scroll-target="#postdoctoral-fellows">Postdoctoral Fellows</a></li>
-  <li><a href="#graduate-students" id="toc-graduate-students" class="nav-link" data-scroll-target="#graduate-students">Graduate Students</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
+  <li><a href="#s-group-publications" id="toc-s-group-publications" class="nav-link" data-scroll-target="#s-group-publications">Owen’s Group Publications</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page-left" id="quarto-document-content">
 
 
 
 
-<img src="../../images/sc-logo.png" style="float: left; width: 130px; margin-top: 25px;">
-<h1>
-The Experience Machine Team
-</h1>
-<section id="principal-investigators" class="level2">
-<h2 class="anchored" data-anchor-id="principal-investigators">Principal Investigators</h2>
-<div id="listing-pi" class="quarto-listing quarto-listing-container-custom">
+<hr>
+<div class="quarto-about-trestles column-page-left">
+  <div class="about-entity">
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Owen the Osiris</h1>
+</div>
+<div class="quarto-title-meta column-page-left">
+  </div>
+</header>
+    <div class="about-links">
+  <a href="mailto:masiello@uw.edu" class="about-link" rel="" target="">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text">Email</span>
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=mgP_xO8AAAAJ" class="about-link" rel="" target="">
+    <i class="bi bi-mortarboard"></i>
+     <span class="about-link-text">Google Scholar</span>
+  </a>
+  <a href="https://github.com/MasielloGroup" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><div id="about">
+<section id="education" class="level2">
+<h2 data-anchor-id="education">Education</h2>
+<p><strong>?meta:education</strong></p>
+<p><br></p>
+</section>
+</div></div>
+</div>
 
-<div class="quarto-listing quarto-listing-container-grid">
-  
-  <div class="list grid quarto-listing-cols-3"> 
-
-     
-    
-    <div class="g-col-1 listing-box">
-      
-      
-      
-      <a href="../../people/reynolds-monty/index.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          
-          
-          <p class="card-img-top">
-            <img alt="Montaque Reynolds" src="../../people/reynolds-monty/avatar.jpg" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
-          </p>
-          
-          <div class="card-body post-contents">
-            
-            <div class="listing-box-title">
-              Montaque Reynolds<br> 
-            </div>
-               
-            <div class="listing-box-subtitle">
-              Stetson University<br>
-            </div>
-                
-            
-            
-                  
-
-            
-            
-          </div>  
-        </div>  
-      </a>
-      
+<section id="s-group-publications" class="level2">
+<h2 data-anchor-id="s-group-publications">Owen’s Group Publications</h2>
+<div id="listing-pubs" class="quarto-listing quarto-listing-container-custom">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
     </div>
-  
+</div>
+<div class="list quarto-listing-default">
     
-  
-</div>
-</div>
+    </div>
 
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-</section>
-<section id="postdoctoral-fellows" class="level2">
-<h2 class="anchored" data-anchor-id="postdoctoral-fellows">Postdoctoral Fellows</h2>
-<div id="listing-postdoc" class="quarto-listing quarto-listing-container-custom">
 
-<div class="quarto-listing quarto-listing-container-grid">
-  
-  <div class="list grid quarto-listing-cols-3"> 
-
-    
-  
-</div>
-</div>
-
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="graduate-students" class="level2">
-<h2 class="anchored" data-anchor-id="graduate-students">Graduate Students</h2>
-<div id="listing-gradstudent" class="quarto-listing quarto-listing-container-custom">
-
-<div class="quarto-listing quarto-listing-container-grid">
-  
-  <div class="list grid quarto-listing-cols-3"> 
-
-    
-  
-</div>
-</div>
-
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
 
 
 
@@ -403,13 +270,6 @@ The Experience Machine Team
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

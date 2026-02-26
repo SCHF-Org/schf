@@ -14,7 +14,8 @@
   {
     "listing": "/people/index.html",
     "items": [
-      "/people/reynolds-monty/index.html"
+      "/people/reynolds-montaque/index.html",
+      "/people/own/index.html"
     ]
   },
   {
@@ -75,9 +76,7 @@
   },
   {
     "listing": "/people/reynolds-monty/index.html",
-    "items": [
-      "/publications/2025_095_value_realism/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/publications/index.html",
@@ -188,6 +187,14 @@
   },
   {
     "listing": "/research/nanophotonics-quantum_optics/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/reynolds-montaque/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/own/index.html",
     "items": []
   }
 ]
