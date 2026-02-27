@@ -1,52 +1,15 @@
 [
   {
-    "listing": "/research/photothermal_spectroscopy_and_microscopy/index.html",
-    "items": []
-  },
-  {
     "listing": "/research/metaphysics/index.html",
-    "items": [
-      "/publications/2025_095_value_realism/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/research/aesthetics/index.html",
     "items": []
   },
   {
-    "listing": "/people/index.html",
-    "items": [
-      "/people/reynolds-monty/index.html"
-    ]
-  },
-  {
-    "listing": "/dmref/people/index.html",
-    "items": [
-      "/people/reynolds-monty/index.html"
-    ]
-  },
-  {
-    "listing": "/dmref/publications/index.html",
-    "items": [
-      "/publications/2025_092_scattering-vs-interference/index.html",
-      "/publications/2025_091_chemical_interface_damping/index.html",
-      "/publications/2023_084_spectroscopy_in_nanoscopic/index.html",
-      "/publications/2023_080_Nonlinear_effects/index.html",
-      "/publications/2022_075_optical_control_over/index.html",
-      "/publications/2021_071_model-based_insight/index.html",
-      "/publications/2021_070_toward_quantitative_nanothermometry/index.html",
-      "/publications/2021_064_wavelength-dependent-photothermal/index.html",
-      "/publications/2021_062_coupled-dipole-modeling/index.html",
-      "/publications/2020_059_Intermolecular_hydrogen/index.html",
-      "/publications/2020_053_Far-field_midinfrare/index.html",
-      "/publications/2019_048_Rotation_of_Single-M/index.html",
-      "/publications/2019_047_Active_Far-Field_Con/index.html",
-      "/publications/2019_046_Plasmon_Heating_Prom/index.html",
-      "/publications/2018_039_Mislocalization_in_P/index.html",
-      "/publications/2018_038_Introduction_Plasmon/index.html",
-      "/publications/2014_024_Thermal_Signatures_o/index.html",
-      "/publications/2012_017_Super-Resolution_Ima/index.html"
-    ]
+    "listing": "/people/reynolds-monty/index.html",
+    "items": []
   },
   {
     "listing": "/news/index.html",
@@ -76,13 +39,43 @@
     ]
   },
   {
-    "listing": "/people/reynolds-monty/index.html",
-    "items": []
+    "listing": "/dmref/publications/index.html",
+    "items": [
+      "/publications/2025_092_scattering-vs-interference/index.html",
+      "/publications/2025_091_chemical_interface_damping/index.html",
+      "/publications/2023_084_spectroscopy_in_nanoscopic/index.html",
+      "/publications/2023_080_Nonlinear_effects/index.html",
+      "/publications/2022_075_optical_control_over/index.html",
+      "/publications/2021_071_model-based_insight/index.html",
+      "/publications/2021_070_toward_quantitative_nanothermometry/index.html",
+      "/publications/2021_064_wavelength-dependent-photothermal/index.html",
+      "/publications/2021_062_coupled-dipole-modeling/index.html",
+      "/publications/2020_059_Intermolecular_hydrogen/index.html",
+      "/publications/2020_053_Far-field_midinfrare/index.html",
+      "/publications/2019_048_Rotation_of_Single-M/index.html",
+      "/publications/2019_047_Active_Far-Field_Con/index.html",
+      "/publications/2019_046_Plasmon_Heating_Prom/index.html",
+      "/publications/2018_039_Mislocalization_in_P/index.html",
+      "/publications/2018_038_Introduction_Plasmon/index.html",
+      "/publications/2014_024_Thermal_Signatures_o/index.html",
+      "/publications/2012_017_Super-Resolution_Ima/index.html"
+    ]
+  },
+  {
+    "listing": "/dmref/people/index.html",
+    "items": [
+      "/people/reynolds-monty/index.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/reynolds-monty/index.html"
+    ]
   },
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/2025_095_value_realism/index.html",
       "/publications/2025_094_conservation-of-optical/index.html",
       "/publications/2025_093_strongly_coupled_photonic/index.html",
       "/publications/2025_092_scattering-vs-interference/index.html",
@@ -185,17 +178,5 @@
       "/research/aesthetics/index.html",
       "/research/metaphysics/index.html"
     ]
-  },
-  {
-    "listing": "/research/nanophotonics-quantum_optics/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/reynolds-montaque/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/own/index.html",
-    "items": []
   }
 ]
