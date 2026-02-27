@@ -14,9 +14,10 @@ listing:
   include:
     categories: *ALIAS
   fields: [publication, title, categories, image, date, author]
-
 ---
 ![](./canyon-racing.jpg)
+
+[<i class="bi bi-journal-text"></i> Syllabus](https://2026-teacing-portfolio.netlify.app/data/course.phil.sc/syllabus){.btn .btn-primary role="button"}
 
 Star Citizen is a massive online space game where players fly spaceships, explore distant planets, trade goods, and sometimes fight pirates in a intimate, living universe. The Saleno Center uses it to create real moral challenges that feel personal and immediate. For example, players might have to decide whether to share valuable cargo with others in danger (helping the group) or keep it all for themselves (following strict rules of fairness).
 

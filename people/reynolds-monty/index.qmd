@@ -32,13 +32,13 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:masiello@uw.edu
-    - text: Google Scholar
+      href: mailto:montaque.reynolds@gmail.com
+    - text: CV
       icon: mortarboard
-      href: https://scholar.google.com/citations?hl=en&user=mgP_xO8AAAAJ
-    - icon: github
-      text: GitHub
-      href: https://github.com/MasielloGroup
+      href: https://2026-teacing-portfolio.netlify.app/resume-cv
+    - icon: assignment
+      text: Teaching Portfolio
+      href: https://2026-teacing-portfolio.netlify.app/data/course.phil.sc/syllabus
 ---
 
 <hr>
