@@ -6,7 +6,7 @@ page-layout: full
 
 <div class="gradient-text">
 <div class="welcome-headline">
-Experience Machines
+The Experience Machines
 </div>
 <div class="welcome-subheadline">
 Modeling Moral Attachments in Art
