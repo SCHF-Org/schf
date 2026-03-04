@@ -1,6 +1,6 @@
 ---
-#title: 'Welcome to the Saleno Center for Human Flourishing'
-#subtitle: "Philosophy for the Real World"
+#title: "The Experience Machines"
+#subtitle: "Modeling Moral Attachments in Art"
 page-layout: full
 ---
 
