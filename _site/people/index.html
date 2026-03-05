@@ -104,20 +104,20 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-researcher .list');
+    const listingTargetEl = window.document.querySelector('#listing-tech .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-image','listing-education',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-image','listing-education',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-last","listing-first","listing-people_group","listing-email","listing-education","listing-subtitle","listing-description","listing-image","listing-listing","listing-page-layout","listing-about","listing-path","listing-outputHref","listing-author","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-researcher'] = new List('listing-researcher', options);
+    window['quarto-listings']['listing-tech'] = new List('listing-tech', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -399,7 +399,52 @@ window.Quarto = {
               <div class="listing-box-education">
                 
                 
-                  Ph.D Philosophy | Saint Louis University | 2024 <br> M.A. Philosophy | Oklahoma State University | 2017 <br> B.A. Philosophy | Seattle Pacific University | 2015<br>
+                  Ph.D Philosophy | Saint Louis University | 2024 <br> M.A.<br>
+                  
+                    
+              </div>  
+                  
+
+            
+            
+          </div>  
+        </div>  
+      </a>
+      
+    </div>
+  
+     
+    
+    <div class="g-col-1 listing-box">
+      
+      
+      
+      <a href="../people/synder-stephen/index.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          
+          
+          <p class="card-img-top">
+            <img alt="Stephen Snyder" src="../people/synder-stephen/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+          </p>
+          
+          <div class="card-body post-contents">
+            
+            <div class="listing-box-title">
+              Stephen Snyder<br> 
+            </div>
+               
+            <div class="listing-box-subtitle">
+              - "Fullbright Fellow and Researcher - Institute Of Art History And Theory | Tbilisi State University
+- Visiting Assistant Professor | Bogazici University"
+<br>
+            </div>
+                
+            
+              
+              <div class="listing-box-education">
+                
+                
+                  Ph.D Philosophy | Saint Louis University | 2006<br>
                   
                     
               </div>  
@@ -420,11 +465,7 @@ window.Quarto = {
 
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-custom" id="listing-researcher">
+<div id="listing-postdoc" class="quarto-listing quarto-listing-container-custom">
 
 <div class="quarto-listing quarto-listing-container-grid">
   
@@ -436,12 +477,60 @@ window.Quarto = {
 </div>
 
 <div class="listing-no-matching d-none">No matching items</div>
-</div><div class="quarto-listing quarto-listing-container-custom" id="listing-postdoc">
+</div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-custom" id="listing-tech">
 
 <div class="quarto-listing quarto-listing-container-grid">
   
   <div class="list grid quarto-listing-cols-3"> 
 
+     
+    
+    <div class="g-col-1 listing-box">
+      
+      
+      
+      <a href="../people/godwin-owen/index.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          
+          
+          <p class="card-img-top">
+            <img alt="Owen Godwin" src="../people/godwin-owen/avatar.png" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+          </p>
+          
+          <div class="card-body post-contents">
+            
+            <div class="listing-box-title">
+              Owen Godwin<br> 
+            </div>
+               
+            <div class="listing-box-subtitle">
+              Musician<br>
+            </div>
+                
+            
+              
+              <div class="listing-box-education">
+                
+                
+                  Ph.D. Chemistry | University of Washington <br> B.S. Chemistry | University of Washington<br>
+                  
+                    
+              </div>  
+                  
+
+            
+            
+          </div>  
+        </div>  
+      </a>
+      
+    </div>
+  
     
   
 </div>

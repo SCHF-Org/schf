@@ -70,7 +70,9 @@
   {
     "listing": "/people/index.html",
     "items": [
-      "/people/reynolds-monty/index.html"
+      "/people/reynolds-monty/index.html",
+      "/people/synder-stephen/index.html",
+      "/people/godwin-owen/index.html"
     ]
   },
   {
@@ -178,5 +180,13 @@
       "/research/aesthetics/index.html",
       "/research/metaphysics/index.html"
     ]
+  },
+  {
+    "listing": "/people/synder-stephen/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/godwin-owen/index.html",
+    "items": []
   }
 ]

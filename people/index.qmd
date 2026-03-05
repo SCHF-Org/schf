@@ -9,9 +9,9 @@ listing:
     template: ../_ejs/people-box.ejs
     type: grid
     fields: [title, subtitle, image, education]
-  - id: researcher
+  - id: tech
     include:
-      people_group: "researcher"
+      people_group: "tech"
     exclude:
       external: true
     template: ../_ejs/people-box.ejs
@@ -60,5 +60,6 @@ page-layout: full
 ::: {#pi}
 :::
 
-
+::: {#postdoc}
+:::
 

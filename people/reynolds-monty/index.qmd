@@ -5,7 +5,7 @@ first: Montaque
 people_group: "pi"
 email: "mreynolds1@stetson.edu"
 education:
-  - Ph.D Philosophy | Saint Louis University | 2024 <br> M.A. Philosophy | Oklahoma State University | 2017 <br> B.A. Philosophy | Seattle Pacific University | 2015
+  - Ph.D Philosophy | Saint Louis University | 2024 <br> M.A.
 subtitle: "Visiting Assistant Professor, Philosophy"
 description: ""
 project: "dmref"
@@ -41,21 +41,4 @@ about:
       href: https://2026-teacing-portfolio.netlify.app/data/course.phil.sc/syllabus
 ---
 
-<hr>
-
-
-:::{#about}
-
-Montaque Reynolds is an visiting assistant professor of philosophy at Stetson University.
-
-## Education
-{{< meta education >}}
-
-<br>
-
-:::
-
-## {{< meta first >}}'s Group Publications
-
-:::{#pubs}
-:::
+Montaque Reynolds is an visiting assistant professor of philosophy at Stetson University. As a philosopher and educator, he is deeply passionate about leveraging artificial intelligence and interactive storytelling to enhance human reasoning, ethical decision-making, and overall flourishing—particularly for underserved youth. In 2024, he obtained a PhD in Philosophy from Saint Louis University. Now, with a small team, he develops interactive philosophical thought simulations using massively multiplayer online game platforms fostering critical thinking, moral imagination, and empathy.
