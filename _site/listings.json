@@ -178,7 +178,8 @@
     "listing": "/research/index.html",
     "items": [
       "/research/aesthetics/index.html",
-      "/research/metaphysics/index.html"
+      "/research/metaphysics/index.html",
+      "/research/summer/index.html"
     ]
   },
   {
@@ -187,6 +188,10 @@
   },
   {
     "listing": "/people/godwin-owen/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/summer/index.html",
     "items": []
   }
 ]
